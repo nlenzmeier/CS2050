@@ -1,0 +1,6 @@
+Lazarus,.Reach.of.Shifting.Worlds | 565 | 7 | 3
+Piece.Maker,.Dark.Blade.of.Storms | 2222 | 100
+Wooden.Shield | 500 | 2 | 3
+Bronze.Short.Sword | 500 | 15
+Worn.Aegis | 245 | 4 | 3
+Wit's.End | 600 | 50

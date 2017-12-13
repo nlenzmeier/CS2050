@@ -1,0 +1,69 @@
+9
+19 4
+East-South-Central
+0
+17
+24
+42
+19 5
+East-North-Central
+13
+14
+22
+35
+49
+19 4
+West-South-Central
+3
+18
+36
+43
+19 7
+West-North-Central
+15
+16
+23
+25
+27
+34
+41
+8 5
+Pacific
+1
+4
+11
+37
+47
+9 8
+Mountain
+5
+2
+12
+26
+28
+31
+44
+50
+12 6
+New-England
+6
+19
+21
+29
+39
+45
+15 8
+South-Atlantic
+7
+9
+10
+20
+33
+40
+46
+48
+13 3
+Mid-Atlantic
+30
+32
+38

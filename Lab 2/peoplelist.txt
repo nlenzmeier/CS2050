@@ -1,0 +1,17 @@
+Joe Guilliams
+2
+1999 Volkswagen Beetle 4000
+1960 Cadillac DeVille 18000
+2500 150000
+Will Smith
+1
+2016 Ford Mustang 30000
+4000 2000000
+CJ Voege
+1
+2015 Audi A4 25000
+1400 60000
+Abhi Shah
+2
+2016 Winnebago View 116000
+2015 Winnebago Trend 95000
